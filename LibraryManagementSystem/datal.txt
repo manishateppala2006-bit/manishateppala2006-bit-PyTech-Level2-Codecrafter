@@ -1,0 +1,20 @@
+B001|Python Basics|available
+B002|Data Science 101|issued
+B003|Machine Learning|available
+B004|Deep Learning|issued
+B005|Artificial Intelligence|available
+B006|Database Systems|available
+B007|Algorithms|issued
+B008|Operating Systems|available
+B009|Networking|available
+B010|Software Engineering|issued
+B011|Computer Architecture|available
+B012|Cybersecurity Essentials|available
+B013|Cloud Computing|issued
+B014|Big Data Analytics|available
+B015|Web Development|available
+B016|Mobile App Development|issued
+B017|Software Testing|available
+B018|Embedded Systems|available
+B019|DevOps Fundamentals|available
+B020|Blockchain Basics|issued
